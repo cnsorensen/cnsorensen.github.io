@@ -1,12 +1,29 @@
 <!-- index.html -->
 <!DOCTYPE html>
 <html>
-
   <head>
     <meta name="AUTHOR" content="Chrissy Sorensen">
     <meta name="GENERATOR" content="Vim">
     <title>Chrissy's Super AWESOME Webpage</title>
     <link rel="icon" href="netscapeicon.ico">i
+
+    <!-- Script to get flashing text -->
+    <style>
+      .blink {
+        animation: blink-animation 1s steps(5, start) infinite;
+        -webkit-animation: blink-animation 1s steps(5,start) infinite;
+      }
+      @keyframes blink-animation {
+        to {
+          visibility: hidden;
+        }
+      }
+      @-webkit-keyframes blink-animation {
+        to {
+          visibility: hidden;
+        }
+      }
+    </style> <!-- Flashing text script -->
   </head>
 
   <!-- Body -->
@@ -32,7 +49,7 @@
       </tbody>
     </table> <!-- Header on top of page -->
 
-    <!-- Black box -->
+    <!-- Black box intro -->
     <table align="CENTER" width="60%">
       <tbody>
         <tr>
@@ -43,7 +60,37 @@
                   <td colspan="3">
                     <font size="4">
                       <p align="CENTER">
-                        Hi my name is Chrissy and this is my website I made and I hope you like it :))
+                        Hi my name is Chrissy and this is my website I made 
+                        and I hope you like it :))
+                      </p>
+                    </font>
+                    <p align="CENTER">
+                    <img src="nerdchick.jpg" alt="404 CUTE PIC OF ME NOT FOUND" width="203" height="300">
+                    </p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table> <!-- Black box intro -->
+
+    <!-- Black box Degrassi -->
+    <table align="CENTER" width="60%">
+      <tbody>
+        <tr>
+          <td>
+            <table align "CENTER" width="100%" bgcolor="#000000">
+              <tbody>
+                <tr>
+                  <td colspan="3">
+                    <font size="4">
+                      <p align="CENTER">
+                          <span class="blink">
+                          LOOK AT MY AWESOME RANKING OF DEGRASSI EPISODEZ
+                          </span>
+                          <a href="degrassi.html">HERE</a>
                       </p>
                     </font>
                   </td>
@@ -53,7 +100,7 @@
           </td>
         </tr>
       </tbody>
-    </table> <!-- Black box -->
+    </table> <!-- Black box Degrassi -->
 
     <!-- Stuff at bottom of page -->
     <!-- Under construction -->
@@ -104,10 +151,8 @@
 
 
   <footer>
-    <p>Author: Christine Norma Sorensen</p>
-    <p><a href="https://www.linkedin.com/in/sorensenc/"> HIRE ME!!? </a></p>
-    <p>Copyright 20022</p>
+    <p>Author: Christine Sorensen<br>
+    <!--<a href="https://www.linkedin.com/in/sorensenc/"> HIRE ME!!? </a><br>-->
+    Copyright 20022</p>
   </footer>
-
-
 </html>
