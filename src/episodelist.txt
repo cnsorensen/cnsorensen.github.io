@@ -1,102 +1,162 @@
 4,Time Stands Still Pt. 2
 4,Mercy Street
+7,Death or Glory Pt. 1
+6,Rock This Town
+7,Live to Tell
 5,High Fidelity Pt. 2
+6,Free Fallin’ Pt. 1
 5,I Against I
+8,Paradise City Pt. 3
 4,Secret Pt. 2
-3,Don't Dream It's Over
+3,Don’t Dream It’s Over
 4,Time Stands Still Pt. 1
 5,Tell It To My Heart
 4,Voices Carry Pt. 1
 3,Accidents Will Happen Pt. 2
-3,Never Gonna Give You Up
 2,How Soon is Now?
+8,Jane Says Pt. 2
+8,Heart of Glass
+7,Everything She Wants
 4,Back in Black
-2,Tears Are Not Enough Pt. 2
+2,Tears Are Not Enough Pt. 1
+8,Making a Commotion
+7,Standing in the Dark Pt. 1
+3,Never Gonna Give You Up
 5,Our Lips Are Sealed Pt. 1
 5,Turned Out Pt. 2
-4,Goin' Down This Road Pt. 2
-4,Eye of the Tiger
+4,Goin’ Down This Road Pt. 2
 2,Shout Pt. 1
-5,Turned Out Pt. 1
+4,Eye of the Tiger
+7,Talking in Your Sleep
+8,Bad Medicine
 4,Secret Pt. 1
+5,Turned Out Pt. 1
 3,Accidents Will Happen Pt. 1
 4,Moonlight Desires
 3,Against All Odds
-3,Should I Stay or Should I Go?
+8,With or Without You
+3,Should I Stay or Should I Go
 4,Anywhere I Lay My Head
 4,King of Pain
-4,Chost in the Machine Pt. 2
+8,Fight the Power
+4,Ghost in the Machine Pt. 2
 4,Voices Carry Pt. 2
 3,Whisper to a Scream
 3,Pride Pt. 2
-4,West End Girls
-5,Foolin'
 2,Tears Are Not Enough Pt. 2
-2,Dressed in Black
-2,When Doves Cry Pt. 2
+2,Dressed In Black
+8,Man With Two Hearts
+4,West End Girls
+5,Foolin’
+2,When Doves Cry 2
+8,Danger Zone
 1,Jagged Little Pill
 2,Mirror in the Bathroom
-2,Under Pressure
+1,Under Pressure
 1,Friday Night
+6,What’s It Feel Like To Be A Ghost Pt. 2
+3,Pride Pt. 1
+6,Eyes Without a Face Pt. 2
+6,Eyes Without a Face Pt. 1
+8,Touch of Grey
 5,Lexicon of Love Pt. 1
 4,Ghost in the Machine Pt. 1
 5,Venus Pt. 2
+8,Up Where We Belong
 4,Islands in the Stream
+8,Jane Says Pt. 1
+7,Sweet Child O Mine
+8,Heat of the Moment
 5,Venus Pt. 1
-3,Pride Pt. 1
-3,It's Raining Men
-2,Don't Believe the Hype
+8,Lost in Love Pt. 1
+8,Money for Nothing
+3,It’s Raining Men
+2,Don’t Believe the Hype
 1,Coming of Age
-3,Take On Me
+7,Ladies Night
 1,Eye of the Beholder
+7,If This Is It
+3,Take On Me
 3,U Got The Look
 2,Message in a Bottle
 2,Karma Chameleon
+8,Lost in Love Pt. 2
+7,Got My Mind Set on You
+7,Death or Glory Pt. 2
+8,Don’t We Almost Have It All
+6,Can’t Hardly Wait
 2,Careless Whisper
 1,Basketball Diaries
-2,Shout Pt. 2
 3,Holiday Pt. 1
-3,Holiday Pt. 2:wq
+7,Don’t You Want Me? Pt. 1
+2,Shout Pt. 2
+3,Holiday Pt. 2
 3,Gangsta Gangsta
 1,Cabaret
+6,Don’t You Want Me? Pt. 2
 4,Going Down This Road Pt. 1
-4,Queen of Hearts
 2,Hot For Teacher
 1,The Mating Game
 1,Wannabe
-3,Our House
 2,Weird Science
-2,When Doves Cry Pt. 1
+2,When Doves Cry 1
+6,The Bitterest Pill
+4,Queen of Hearts
+7,Broken Wings
+3,Our House
+7,Standing in the Dark Pt. 2
+7,Another Brick in the Wall
 3,Power of Love
+7,Jessie’s Girl
 2,Take My Breath Away
-5,Still Haven't Found What I'm Looking For
-5,Redeption Song                        
+7,Love is a Battlefield
+7,Pass the Dutchie
+5,Still Haven’t Found What I’m Looking For
+5,Redemption Song
+7,It’s Tricky
 3,I Want Candy
 5,High Fidelity Pt. 1
 5,Our Lips Are Sealed Pt. 2
-n5,Lexicon of Love Pt. 2                        
+7,Bust a Move Pt. 1
+5,Lexicon of Love Pt. 2
 5,Weddings, Parties, Anything
 2,Girls Just Wanna Have Fun
-5,Death of a Disco Dancer
 1,Secrets & Lies
+6,What’s It Feel Like To Be A Ghost Pt. 1
+5,Death of a Disco Dancer
 1,Mother Child Reunion Pt. 2
-1,Parent's Day
+1,Parent’s Day
 2,White Wedding Pt. 1
-4,Neutron Dance
+6,Working for the Weekend
+5,Neutron Dance
 2,Fight for Your Right
 3,This Charming Man
+7,We Built This City
 4,Modern Love
-3,Father Figure Pt. 2
+7,Owner of a Lonely Heart
+3,Father Figure Pt.2
+7,We Got the Beat
+7,Hungry Eyes
 3,Rock & Roll High School
+6,Free Fallin’ Pt. 2
+1,Uptown Girls Pt. 2
+7,Bust a Move Pt. 2
 5,Total Eclipse of the Heart
 4,Bark at the Moon
 2,Drive
-6,Here Comes Your Man Pt. 2
+6,Here Comes You Man Pt. 2
 3,Father Figure Pt. 1
-1,Rumours and Reputations
+1,Rumors and Reputation
 1,Family Politics
+6,Crazy Little Thing Called Love
 6,Here Comes Your Man Pt. 1
+6,If You Leave
+8,Uptown Girl Pt. 1
+6,Love My Way
 6,True Colors
-2,Relax
 1,Mother Child Reunion Pt. 1
+2,Relax
+7,Don’t Stop Believing
 2,White Wedding Pt. 2
+8,Paradise City Pt. 2
+8,Paradise City Pt. 1
